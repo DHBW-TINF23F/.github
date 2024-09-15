@@ -365,7 +365,7 @@ Team 4:  **BaSyx Security Plugin**
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
-# **Mnestix Webclient**
+## **Mnestix Webclient**
 
 Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer \[3\] dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
 
@@ -385,7 +385,7 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 6. Akzeptanzfindung: Die erstellten Lösungen in den Mainstream des Mnestix-Projekts einbringen.
 7. Test der Applikation gegen eine diverse AAS-Server-Infrastruktur.
 
-# **BaSyx Webclient**
+## **BaSyx Webclient**
 
 Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
 
@@ -402,7 +402,7 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 7. Akzeptanzfindung: Die erstellten Lösungen in den Mainstream des BaSyx-Projekts einbringen.
 8. Test der Applikation gegen eine diverse AAS-Server-Infrastruktur.
 
-# **BaSyx Editor-Plugin**
+## **BaSyx Editor-Plugin**
 
 Das BaSyx-Ökosystem kann derzeit keine neue Verwaltungsschale erzeugen oder Teilmodelle in einer Verwaltungsschale hinzufügen. Hierzu gibt es bereits [Anforderungen im Ticket-System](https://github.com/eclipse-basyx/basyx-applications/issues/240) des [BaSyx-GUI-Projekts](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui), welche als Anforderungsgrundlage verwendet werden sollen.
 
@@ -427,7 +427,7 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 7. Hosting der Funktionalität
 8. Akzeptanzfindung für die erstellte Lösung im Open-Source-Projekt herbeiführen
 
-# **BaSyx Security-Plugin**
+## **BaSyx Security-Plugin**
 
 Folgende Dokumente definieren bislang das Thema „Security für Verwaltungsschalen“:
 
