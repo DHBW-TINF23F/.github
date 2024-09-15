@@ -220,9 +220,15 @@ A: Um die Wertigkeit der Projektarbeit für Sie zu steigern, wird angeregt, dies
 - Die Studenten können später in Ihrem Lebenslauf auf Mitarbeit an einem veröffentlichten Open-Source-Projekt verweisen.
 - Die Dozenten können die Software von nachfolgenden Studenten-Jahrgängen weiterentwickeln lassen (siehe rechtliche Hinweise weiter unten).
 
-Beispiel:
+Beispiele:
 
-<http://studium.dhbw-stuttgart.de/informatik/studierendenprojekte/multicastor/>
+- <https://autarchprinceps.github.io/MultiCastor/>
+- <https://github.com/GoranErdeljan/TINF19C-Team-4-Service-Registry>
+- <https://github.com/robinziegler/TINF21C_Team4_Modelling_Wizard_Improvements>
+- <https://github.com/mercal03/TINF21C_Team1_AAS-Server-Webclient>
+- <https://github.com/ilire0/TINF22F_Team-1_AAS-Webclient>
+- <https://github.com/MidFidelity/TINF21C_Team2_AAS_digital_nameplate>
+- <https://github.com/TTRSF/TINF22F-Team2-Nameplate-Generator>
 
 **F: Muss ich alle auch optionalen Features implementieren?**
 
