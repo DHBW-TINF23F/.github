@@ -1,44 +1,10 @@
-**Informationen zur Softwaretechnik-Vorlesung TINF23F**
+# **Informationen zur Softwaretechnik-Vorlesung TINF23F**
 
-[1\. Verfahrensanweisungen 2](#_Toc177036411)
-
-[1.1. Ziel 2](#_Toc177036412)
-
-[1.2. Rahmenbedingungen 2](#_Toc177036413)
-
-[1.3. Bewertung 2](#_Toc177036414)
-
-[1.4. Aufgabenstellung 3](#_Toc177036415)
-
-[1.5. Präsentationen 5](#_Toc177036416)
-
-[1.6. Dokumentation 6](#_Toc177036417)
-
-[1.7. FAQ 9](#_Toc177036418)
-
-[1.8. TINF23F Teilnehmerübersicht 10](#_Toc177036419)
-
-[2\. Projektthemen 11](#_Toc177036420)
-
-[2.1. Mnestix Webclient 12](#_Toc177036421)
-
-[2.2. BaSyx Webclient 13](#_Toc177036422)
-
-[2.3. BaSyx-Editor-Plugin 15](#_Toc177036423)
-
-[2.4. LS2AAS Service 16](#_Toc177036424)
-
-[2.5. Nameplate Generator 17](#_Toc177036425)
-
-[2.6. AAS-Tractus-X 18](#_Toc177036426)
-
-[2.7. AAS Discovery GUI 19](#_Toc177036427)
-
-[2.8. AIMC Configurator 19](#_Toc177036428)
+![image](https://github.com/user-attachments/assets/f499bccf-4b02-42ff-a442-4e11143b32de)
 
 # **Verfahrensanweisungen**
 
-# **Ziel**
+## **Ziel**
 
 Das vorlesungsbegleitende Software-Projekt soll Ihnen erste Erfahrungen hinsichtlich des Entwurfs, der Implementierung und der Qualitätssicherung von Software in größerem Umfang und innerhalb eines Projektteams geben.
 
@@ -46,7 +12,7 @@ Dies umfasst die typischen Phasen Analyse, Design, Implementierung bis zum Test 
 
 Es sollen die in den Vorlesungen besprochenen Techniken zur Anwendung kommen.
 
-# **Rahmenbedingungen**
+## **Rahmenbedingungen**
 
 - Gruppen zu 5-7 Studenten.
 - Jeder im Team hat eine oder mehrere bestimmte Rollen und die zugehörigen Aufgaben. Folgende Rollen müssen pro Team besetzt werden:
@@ -67,7 +33,7 @@ Die Note ergibt sich aus Folgender prozentualer Verteilung der Bewertung der Gru
 - 2/3 kollektive Leistung für die Implementierung, Entwicklungsdokumentation und Präsentation
 - 1/3 individuelle Leistung des Einzelnen in seiner Rolle und für sein verantwortliches Modul bzw. Dokument. Bitte sorgen Sie dafür, dass Ihr individueller Beitrag klar identifizierbar ist, auch in den Wiki-Beiträgen im Repository!
 
-# **Aufgabenstellung**
+## **Aufgabenstellung**
 
 **Aufgabe im 3. Semester:**
 
@@ -113,7 +79,7 @@ Achten Sie auf die in der Vorlesung behandelten Themen Requirements Engineering 
 
 **Am Tag vor der Präsentation ist auch die finale Projektpräsentation bereitzustellen.**
 
-# **Präsentationen**
+## **Präsentationen**
 
 **Allgemeines**
 
@@ -149,7 +115,7 @@ Beispielhafter Inhalt:
 - Live Demo
 - Fazit / Ausblick
 
-# **Dokumentation**
+## **Dokumentation**
 
 **Allgemeines**
 
@@ -241,7 +207,7 @@ Es sollen am Schluss alle Dokumente aus Semester 3 und 4 enthalten sein (die neu
 | Inhalt: | GANTT, PSP |
 |     |     |
 
-# **FAQ**
+## **FAQ**
 
 **F: Woher kommen die Projektvorschläge?**
 
@@ -269,45 +235,6 @@ Sie sind angehalten, eine realistische Umfangsabschätzung der Projektaufgabe du
 - Die erstellte Software ist ihr geistiges Eigentum. Sie haben das Vollkommene und alleinige Nutzungsrecht.
 - Die Dozenten werden den Source-Code nicht ohne ihr Einverständnis weiterverwenden.
 - Bei Veröffentlichung bzw. Offenlegung (z.B. als Open-Source-Projekt im GitHub-Repository) sind sie selbst für die Formulierung entsprechender Lizenzrechte verantwortlich. Es wird die Verwendung der MIT-Lizenz empfohlen.
-
-# **TINF23F Teilnehmerübersicht**
-
-|     | **Nachname** | **Vorname** | **DH Mail** | **Matrikel-Nr.** | **Firma** |
-| --- | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |     |
-| 2   |     |     |     |     |     |
-| 3   |     |     |     |     |     |
-| 4   |     |     |     |     |     |
-| ~~5~~ |     |     |     |     |     |
-| 6   |     |     |     |     |     |
-| 7   |     |     |     |     |     |
-| 8   |     |     |     |     |     |
-| 9   |     |     |     |     |     |
-| 10  |     |     |     |     |     |
-| ~~11~~ |     |     |     |     |     |
-| 12  |     |     |     |     |     |
-| 13  |     |     |     |     |     |
-| 14  |     |     |     |     |     |
-| 15  |     |     |     |     |     |
-| 16  |     |     |     |     |     |
-| 17  |     |     |     |     |     |
-| 18  |     |     |     |     |     |
-| 19  |     |     |     |     |     |
-| 20  |     |     |     |     |     |
-| 21  |     |     |     |     |     |
-| 22  |     |     |     |     |     |
-| 23  |     |     |     |     |     |
-| 24  |     |     |     |     |     |
-| 25  |     |     |     |     |     |
-| 26  |     |     |     |     |     |
-
-Sammel-eMail: [stud-verteiler+STG-TINF23F@lehre.dhbw-stuttgart.de](mailto:stud-verteiler+STG-TINF22F@lehre.dhbw-stuttgart.de)
-
-Kurssprecher/in: MobilNr:
-
-NextCloud-Ablage:
-
-GitHub-Repository-Organizer:
 
 # **Projektthemen**
 
@@ -369,7 +296,7 @@ GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
 Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer \[3\] dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
 
-![Ein Bild, das Text, Screenshot, Webseite, Software enthält.
+![image](https://github.com/user-attachments/assets/99e5aab6-019f-4977-8b44-f53fdb0b71e5)
 
 Im Rahmen der Aufgabe soll das Open-Source-Projekt [Mnestix](https://github.com/mnestix/mnestix-browser) weiterentwickelt und insbesondere die Viewer-Usability für die einzelnen [IDTA-Submodelle](https://industrialdigitaltwin.org/en/content-hub/downloads).
 
@@ -389,6 +316,8 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 
 Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
 
+![image](https://github.com/user-attachments/assets/96525a7c-1fe8-4aff-9fed-9e92f22dfed6)
+
 Im Rahmen der Aufgabe soll das Open-Source-Projekt [BaSyx](https://github.com/eclipse-basyx/basyx-aas-web-ui) weiterentwickelt und insbesondere die Usability verbessert werden. Betrachtet werden sollen vor allem die [Submodelle](https://github.com/admin-shell-io/submodel-templates/tree/main/published) „**Digital Nameplate**“, „**Technical Data**“, „**Hierarchical Structures enabling Bills of Material**“, „**Bill of Process**“**, „ServiceRequestNotification“.** Der [Nameplate-Generator](https://github.com/TTRSF/TINF22F-Nameplate-Generator) soll in das [Submodel-Plugin](https://github.com/eclipse-basyx/basyx-aas-web-ui/tree/main/aas-web-ui/src/components/SubmodelPlugins) „Digital Nameplate“ integriert werden. Das Submodel-Plugin [„Bills of Material“](https://github.com/eclipse-basyx/basyx-aas-web-ui/blob/main/aas-web-ui/src/components/SubmodelPlugins/BillsOfMaterial.vue) soll weiterentwickelt werden, um Catena-X-konforme BOMs (Aspect Model „SingleLevelBomAsPlanned/Built“) zu unterstützen.
 
 Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
@@ -406,9 +335,13 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 
 Das BaSyx-Ökosystem kann derzeit keine neue Verwaltungsschale erzeugen oder Teilmodelle in einer Verwaltungsschale hinzufügen. Hierzu gibt es bereits [Anforderungen im Ticket-System](https://github.com/eclipse-basyx/basyx-applications/issues/240) des [BaSyx-GUI-Projekts](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui), welche als Anforderungsgrundlage verwendet werden sollen.
 
+![image](https://github.com/user-attachments/assets/34d6e4bf-d1eb-443f-98cb-9d3f75068bf2)
+
 Für das vorliegende Projekt soll für das BaSyx-UI das AAS-Editor-Plugin erweitert werden. Im Plugin sollen folgende Anwendungsfälle unterstützt werden:
 
-1. Ein Bild, das Text, Screenshot, Schrift enthält. 
+![image](https://github.com/user-attachments/assets/34d49de1-2085-4f38-bab5-d259854c344c)
+
+1. AAS erzeugen: Die AAS-Zusammenstellung soll auswählbar sein. Die Optionen betreffen im wesentliche die Zusammenstellung der Teilmodelle, die die AAS mindestens enthalten soll. Zur Auswahl bereitstehende vordefinierte Zusammenstellungen (z.B. LS-AAS) sollen nicht hartcodiert, sondern in einer JSON-Konfigurationsdatei zum Plugin hinterlegt werden. 
 2. Submodell zu AAS hinzufügen.
 3. Der Submodell-Baum soll angezeigt werden können. Inhaltlich noch nicht vollständig befüllte Submodelle oder Attribute sollen optisch hervorgehoben werden (z.B. rot markiert).
 4. Externe Modell-Dateien sollen zur AAS hinzugefügt werden können. Nach einer Plausibilitätsprüfung soll eine [definitionsgemäße Verlinkung](C://Users/Markus%20Rentschler/Downloads/IDTA_02026-1-0_Submodel_ProvisionOf3DModels.pdf) mit MimeType der ausgewählten Datei in der Verwaltungsschale erfolgen.
@@ -438,7 +371,7 @@ Folgende Dokumente definieren bislang das Thema „Security für Verwaltungsscha
 
 In der IDTA wird derzeit an der Spezifikation „Security“ gearbeitet, wobei zunächst das rollenbasierte Modell aus „[Details of the Administration Shell](https://admin-shell-io.github.io/aas-specs-antora/IDTA-01003-a/v3.0/index.html)“ übernommen wurde, dass bis V30RC02 dort enthalten war und auf dem Konzept der „Attribute-Based Access Control“ (ABAC) basiert. Es existiert auch eine prototypische AAS-Server-Implementierung (<https://v3.admin-shell-io.com/>), siehe Abbildung, jedoch keine Benutzeroberfläche, um Zugriffsrichtlinien für AAS-Elemente zu konfigurieren.
 
-![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
+![image](https://github.com/user-attachments/assets/4eee8263-d331-442b-b0d3-95a7a1e74f57)
 
 Derzeit werden in der IDTA-Arbeitsgruppe vier Varianten diskutiert:
 
@@ -478,7 +411,7 @@ Im Kern müssen zu dem Thema AAS-Security folgende Fragestellungen geklärt werd
   - Mit einem Interpreter, der zum Zeitpunkt der Zugriffsentscheidung aufgerufen wird?
   - Integriert in Such- und Abfragestrukturen?
 
-![Ein Bild, das Text, Screenshot, Software, Webseite enthält.
+![image](https://github.com/user-attachments/assets/96419526-2e05-47d6-9083-47ed9e4c08a9)
 
 Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 
