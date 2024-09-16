@@ -44,7 +44,6 @@ Die Note ergibt sich aus Folgender prozentualer Verteilung der Bewertung der Gru
 3. Systematisieren Sie die Anforderungen und ergänzen Sie ggf. zusätzliche Kundenanforderungen, die sich im Gespräch mit dem Auftraggeber (Dozenten) ergeben, in einem CRS.
 4. Erstellen Sie einen einfachen (!) Business Case (BC), indem Sie von einer fiktiven kommerziellen Auftragsentwicklung ausgehen.
 5. Erstellen Sie eine erste Projektplanung für Ihr Team. Verplanen sie maximal 180 Stunden pro Teammitglied (inklusive Administration und Dokumente schreiben).
-6. Erstellen Sie CRS und BC jeweils als Word-Dokument.
 
 Achten Sie auf die in der Vorlesung behandelten Themen Requirements Engineering und Systemanalyse. Versuchen Sie, in Ihrer Gruppe durch Reviews zu gut spezifizierten Anforderungen unter Anwendung der geeigneten Modellierungstechniken zu kommen.
 
@@ -119,11 +118,10 @@ Beispielhafter Inhalt:
 
 **Allgemeines**
 
-- Für die meisten Dokumente erhalten Sie Word-Vorlagen in der NextCloud. Diese geben das allgemeine Gliederungsschema vor. Bei Verwendung eigener Vorlagen und Designs sollte aber die vorgegebene Gliederung weitgehend beibehalten werden.
-- Diese Vorlagen sind sehr allgemein. Es kann also sein, dass Sie nicht zu allen Punkten, die erwähnt sind, etwas zu schreiben haben.
-- Ausfüllhinweise im Dokument bei Finalisierung bitte löschen.
-- Als Alternative zu Word-Dokumenten wird die Verwendung des Projektwiki des Repositories (GitHub) empfohlen. Diese Dokumente müssen dann zur Abgabe als PDF extrahiert und versioniert werden.
-- Erlaubte Sprachen für die Projektdokumention sind Deutsch und Englisch, für produktbegleitende Dokumente (User Manual, Readme, SRS, SAS, STP) ist Englisch verpflichtend.
+- Lehnen Sie sich für die Gliederung von CRS uns SRS an die [IEEE-830](https://de.wikipedia.org/wiki/Software_Requirements_Specification)
+- Diese Gleiderungsvorlage ist sehr allgemein. Es kann also sein, dass Sie nicht zu allen Punkten, die erwähnt sind, etwas zu schreiben haben.
+- Als Ablage wird die Verwendung des Projektwiki des Repositories (GitHub) empfohlen oder eine Struktur von Markdown-Dateien direkt im Repository. 
+- Erlaubte Sprachen für die Projektdokumention sind Deutsch und Englisch, für die SAS ist Englisch verpflichtend.
 
 **Ablage der Dokumente**
 
@@ -213,6 +211,12 @@ Es sollen am Schluss alle Dokumente aus Semester 3 und 4 enthalten sein (die neu
 
 A: Die Projektvorschläge wurden von den Dozenten erstellt und sind meist in deren fachlicher Anwendungsdomäne angesiedelt. Das ermöglicht zusätzlichen Wissenstransfer im Rahmen der Projektarbeit.
 
+**F: Muss ich alle auch optionalen Features implementieren?**
+
+A: Es besteht kein Zwang, alle optionalen Requirements zu implementieren, wenn die Aufwände zu groß werden. Die optionalen Features dienen als Manövriermasse für Projektrisiken in der Umsetzungsphase.
+
+Sie sind angehalten, eine realistische Umfangsabschätzung der Projektaufgabe durchzuführen, die der eigenen Leistungsfähigkeit im zur Verfügung stehenden Zeitrahmen entspricht. **Entstehen muss am Ende ein funktionierendes und qualitativ überzeugendes sog. „Minimum Viable Product“ (MVP).** Features, die anfangs gemeinsam in der SRS als Mandatory vereinbart wurden, dürfen nicht ohne mit dem Auftraggeber (Dozenten) abgestimmte Begründung fehlen.
+
 **F: Was soll dieses Angebot mit dem Open-Source Projekt?**
 
 A: Um die Wertigkeit der Projektarbeit für Sie zu steigern, wird angeregt, diese im Rahmen von Open-Source-Projekten abzuhandeln. Das hat folgende Vorteile:
@@ -230,17 +234,12 @@ Beispiele:
 - <https://github.com/MidFidelity/TINF21C_Team2_AAS_digital_nameplate>
 - <https://github.com/TTRSF/TINF22F-Team2-Nameplate-Generator>
 
-**F: Muss ich alle auch optionalen Features implementieren?**
-
-A: Es besteht kein Zwang, alle optionalen Requirements zu implementieren, wenn die Aufwände zu groß werden. Die optionalen Features dienen als Manövriermasse für Projektrisiken in der Umsetzungsphase.
-
-Sie sind angehalten, eine realistische Umfangsabschätzung der Projektaufgabe durchzuführen, die der eigenen Leistungsfähigkeit im zur Verfügung stehenden Zeitrahmen entspricht**. Entstehen muss am Ende ein funktionierendes und qualitativ überzeugendes sog. „Minimum Viable Product“ (MVP).** Features, die anfangs gemeinsam in der SRS als Mandatory vereinbart wurden, dürfen nicht ohne mit dem Auftraggeber (Dozenten) abgestimmte Begründung fehlen.
-
 **Rechtliche Hinweise**
 
 - Die erstellte Software ist ihr geistiges Eigentum. Sie haben das Vollkommene und alleinige Nutzungsrecht.
 - Die Dozenten werden den Source-Code nicht ohne ihr Einverständnis weiterverwenden.
 - Bei Veröffentlichung bzw. Offenlegung (z.B. als Open-Source-Projekt im GitHub-Repository) sind sie selbst für die Formulierung entsprechender Lizenzrechte verantwortlich. Es wird die Verwendung der MIT-Lizenz empfohlen.
+
 
 # **Projektthemen**
 
@@ -298,7 +297,7 @@ Team 4:  **BaSyx Security Plugin**
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
-## **Mnestix Webclient**
+## Projekt 1: **Mnestix Webclient**
 
 Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer \[3\] dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
 
@@ -318,7 +317,7 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 6. Akzeptanzfindung: Die erstellten Lösungen in den Mainstream des Mnestix-Projekts einbringen.
 7. Test der Applikation gegen eine diverse AAS-Server-Infrastruktur.
 
-## **BaSyx Webclient**
+## Projekt 2: **BaSyx Webclient**
 
 Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
 
@@ -337,7 +336,7 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 7. Akzeptanzfindung: Die erstellten Lösungen in den Mainstream des BaSyx-Projekts einbringen.
 8. Test der Applikation gegen eine diverse AAS-Server-Infrastruktur.
 
-## **BaSyx Editor-Plugin**
+## Projekt 3: **BaSyx Editor-Plugin**
 
 Das BaSyx-Ökosystem kann derzeit keine neue Verwaltungsschale erzeugen oder Teilmodelle in einer Verwaltungsschale hinzufügen. Hierzu gibt es bereits [Anforderungen im Ticket-System](https://github.com/eclipse-basyx/basyx-applications/issues/240) des [BaSyx-GUI-Projekts](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui), welche als Anforderungsgrundlage verwendet werden sollen.
 
@@ -366,7 +365,7 @@ Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
 7. Hosting der Funktionalität
 8. Akzeptanzfindung für die erstellte Lösung im Open-Source-Projekt herbeiführen
 
-## **BaSyx Security-Plugin**
+## Projekt 4: **BaSyx Security-Plugin**
 
 Folgende Dokumente definieren bislang das Thema „Security für Verwaltungsschalen“:
 
@@ -375,11 +374,11 @@ Folgende Dokumente definieren bislang das Thema „Security für Verwaltungsscha
 - [Sicherer Downloadservice](https://www.plattform-i40.de/PI40/Redaktion/EN/Downloads/Publikation/secure_downloadservice.html) (12/2020)
 - [Details of the Asset Administration Shell Part 1, Chapter 6, ABAC & RBAC](https://www.plattform-i40.de/PI40/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html) (05/2022)
 
-In der IDTA wird derzeit an der Spezifikation „Security“ gearbeitet, wobei zunächst das rollenbasierte Modell aus „[Details of the Administration Shell](https://admin-shell-io.github.io/aas-specs-antora/IDTA-01003-a/v3.0/index.html)“ übernommen wurde, dass bis V30RC02 dort enthalten war und auf dem Konzept der „Attribute-Based Access Control“ (ABAC) basiert. Es existiert auch eine prototypische AAS-Server-Implementierung (<https://v3.admin-shell-io.com/>), siehe Abbildung, jedoch keine Benutzeroberfläche, um Zugriffsrichtlinien für AAS-Elemente zu konfigurieren.
+In „[Details of the Administration Shell](https://admin-shell-io.github.io/aas-specs-antora/IDTA-01003-a/v3.0/index.html)“ war bis V30RC02 ein Security-Konzept für sowohl RBAC als auch ABAC enthalten. Hierfür exisitert auch eine prototypische AAS-Server-Implementierung (https://v3.admin-shell-io.com/), siehe Abbildung 18,  jedoch keine Benutzeroberfläche, um Zugriffsrichtlinien für AAS-Elemente zu konfigurieren.
 
 ![image](https://github.com/user-attachments/assets/4eee8263-d331-442b-b0d3-95a7a1e74f57)
 
-Derzeit werden in der IDTA-Arbeitsgruppe vier Varianten diskutiert:
+Derzeit wird das AAS-Security-Konzept in der IDTA komplett überarbeitet und soll durch eine neue Spezifikation „Security“ ersetzt werden. Hierfür werden in der IDTA-Arbeitsgruppe vier Varianten diskutiert:
 
 1. Security Meta Model
 2. Security Submodel
