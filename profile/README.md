@@ -2,15 +2,105 @@
 
 ![image](https://github.com/user-attachments/assets/f499bccf-4b02-42ff-a442-4e11143b32de)
 
-# **Verfahrensanweisungen**
-
-## **Ziel**
+## **Projektarbeit**
 
 Das vorlesungsbegleitende Software-Projekt soll Ihnen erste Erfahrungen hinsichtlich des Entwurfs, der Implementierung und der Qualitätssicherung von Software in größerem Umfang und innerhalb eines Projektteams geben.
 
 Dies umfasst die typischen Phasen Analyse, Design, Implementierung bis zum Test im abgebildeten Top-Down-Entwicklungsprozess nach einem Phasenmodell.
 
 Es sollen die in den Vorlesungen besprochenen Techniken zur Anwendung kommen.
+
+Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten. Bei Unstimmigkeiten unter den Teams, wer welches Projekt machen möchte, treffen die Dozenten die finale Zuweisung. Folgende Themen werden bearbeitet:
+
+### **Team 1:  [Mnestix Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project1.md)**
+
+| **Rolle** | **Name** | **Nachname** | **eMail** | **Matrikel** |
+| --- | --- | --- | --- | --- |
+| Projektleiter |     |     |     |     |
+| Produktmanager |     |     |     |     |
+| Testmanager |     |     |     |     |
+| Systemarchitekt |     |     |     |     |
+| Dokumentation |     |     |     |     |
+| Entwickler |     |     |     |     |
+
+GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
+
+### **Team 2:  [BaSyx Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
+
+| **Rolle** | **Name** |     | **eMail** | **Matrikel** |
+| --- | --- | --- | --- | --- |
+| Projektleiter |     |     |     |     |
+| Produktmanager |     |     |     |     |
+| Testmanager |     |     |     |     |
+| Systemarchitekt |     |     |     |     |
+| Dokumentation |     |     |     |     |
+| Entwickler |     |     |     |     |
+
+GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
+
+### **Team 3:  [BaSyx Editor Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
+
+| **Rolle** | **Name** |     | **eMail** | **Matrikel** |
+| --- | --- | --- | --- | --- |
+| Projektleiter |     |     |     |     |
+| Produktmanager |     |     |     |     |
+| Testmanager |     |     |     |     |
+| Systemarchitekt |     |     |     |     |
+| Dokumentation |     |     |     |     |
+| Entwickler |     |     |     |     |
+
+GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
+
+### **Team 4: [BaSyx Security Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
+
+| **Rolle** |     | **Name** | **eMail** | **Matrikel** |
+| --- | --- | --- | --- | --- |
+| Projektleiter |     |     |     |     |
+| Produktmanager |     |     |     |     |
+| Testmanager |     |     |     |     |
+| Systemarchitekt |     |     |     |     |
+| Dokumentation |     |     |     |     |
+| Entwickler |     |     |     |     |
+
+GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
+
+### **FAQ**
+
+**F: Woher kommen die Projektvorschläge?**
+
+A: Die Projektvorschläge wurden von den Dozenten erstellt und sind meist in deren fachlicher Anwendungsdomäne angesiedelt. Das ermöglicht zusätzlichen Wissenstransfer im Rahmen der Projektarbeit. Infos zur Einarbeitung: [Tutorials & Resources](https://github.com/DHBW-TINF23F/.github/blob/main/turorials.md)
+
+**F: Muss ich alle auch optionalen Features implementieren?**
+
+A: Es besteht kein Zwang, alle optionalen Requirements zu implementieren, wenn die Aufwände zu groß werden. Die optionalen Features dienen als Manövriermasse für Projektrisiken in der Umsetzungsphase.
+
+Sie sind angehalten, eine realistische Umfangsabschätzung der Projektaufgabe durchzuführen, die der eigenen Leistungsfähigkeit im zur Verfügung stehenden Zeitrahmen entspricht. **Entstehen muss am Ende ein funktionierendes und qualitativ überzeugendes sog. „Minimum Viable Product“ (MVP).** Features, die anfangs gemeinsam in der SRS als Mandatory vereinbart wurden, dürfen nicht ohne mit dem Auftraggeber (Dozenten) abgestimmte Begründung fehlen.
+
+**F: Was soll dieses Angebot mit dem Open-Source Projekt?**
+
+A: Um die Wertigkeit der Projektarbeit für Sie zu steigern, wird angeregt, diese im Rahmen von Open-Source-Projekten abzuhandeln. Das hat folgende Vorteile:
+
+- Die Studenten können später in Ihrem Lebenslauf auf Mitarbeit an einem veröffentlichten Open-Source-Projekt verweisen.
+- Die Dozenten können die Software von nachfolgenden Studenten-Jahrgängen weiterentwickeln lassen (siehe rechtliche Hinweise weiter unten).
+
+Beispiele:
+
+- <https://autarchprinceps.github.io/MultiCastor/>
+- <https://github.com/GoranErdeljan/TINF19C-Team-4-Service-Registry>
+- <https://github.com/robinziegler/TINF21C_Team4_Modelling_Wizard_Improvements>
+- <https://github.com/mercal03/TINF21C_Team1_AAS-Server-Webclient>
+- <https://github.com/ilire0/TINF22F_Team-1_AAS-Webclient>
+- <https://github.com/MidFidelity/TINF21C_Team2_AAS_digital_nameplate>
+- <https://github.com/TTRSF/TINF22F-Team2-Nameplate-Generator>
+
+**Rechtliche Hinweise**
+
+- Die erstellte Software ist ihr geistiges Eigentum. Sie haben das Vollkommene und alleinige Nutzungsrecht.
+- Die Dozenten werden den Source-Code nicht ohne ihr Einverständnis weiterverwenden.
+- Bei Veröffentlichung bzw. Offenlegung (z.B. als Open-Source-Projekt im GitHub-Repository) sind sie selbst für die Formulierung entsprechender Lizenzrechte verantwortlich. Es wird die Verwendung der MIT-Lizenz empfohlen.
+
+
+## **Verfahrensanweisungen**
 
 ## **Rahmenbedingungen**
 
@@ -26,16 +116,7 @@ Es sollen die in den Vorlesungen besprochenen Techniken zur Anwendung kommen.
 - Die Projektdokumentation soll in einem Github-Repository abgewickelt werden.
 - Die Teamsitzungen mit Beschlüssen, Status und Ergebnissen müssen in einem einfach lesbaren Protokoll im Repository (z.B. fortlaufend aktualisiertes Issue im Issue-Tracker) dokumentiert werden.
 
-# **Bewertung**
-
-Die Note ergibt sich aus Folgender prozentualer Verteilung der Bewertung der Gruppenarbeit:
-
-- 2/3 kollektive Leistung für die Implementierung, Entwicklungsdokumentation und Präsentation
-- 1/3 individuelle Leistung des Einzelnen in seiner Rolle und für sein verantwortliches Modul bzw. Dokument. Bitte sorgen Sie dafür, dass Ihr individueller Beitrag klar identifizierbar ist, auch in den Wiki-Beiträgen im Repository!
-
-## **Aufgabenstellung**
-
-**Aufgabe im 3. Semester:**
+## **Aufgabe im 3. Semester:**
 
 **Analysephase VL-Wochen 1-6**
 
@@ -63,7 +144,7 @@ Achten Sie auf die in der Vorlesung behandelten Themen Requirements Engineering 
 - Sitzungsprotokolle
 - Präsentation
 
-**Aufgabe bis Ende des 4. Semesters:**
+## **Aufgabe bis Ende des 4. Semesters:**
 
 1. Implementieren Sie das System, testen und integrieren Sie Ihre Module und erstellen Sie dazu die Moduldokumentation (MOD) im Repository.
 2. Richten Sie im Repository den Issue-Tracker für den Systemtest ein.
@@ -77,42 +158,6 @@ Achten Sie auf die in der Vorlesung behandelten Themen Requirements Engineering 
 - CRS, BC, SRS, SAS, Projektplan, MODs, STP, STR, Benutzer Manual, Protokolle, Sourcen, Executable.
 
 **Am Tag vor der Präsentation ist auch die finale Projektpräsentation bereitzustellen.**
-
-## **Präsentationen**
-
-**Allgemeines**
-
-- Zeitvorgabe (möglichst genau) 20 min
-- Etwa 10 min Fragen
-- Sie dürfen selbst entscheiden, wer und wie viele präsentieren.
-- Da Sie sehr viele Informationen in 20 Minuten darstellen müssen, überlegen Sie sich genau, was Sie sagen wollen und welche Informationen auf die Folien kommen. Planen Sie daher zur Vorbereitung der Präsentation ausreichend Zeit ein (30 min bis 1h pro Folie!).
-- Faustregel für die Anzahl der Folien ist eine nichtanimierte Folie pro Minute, mit Animationen werden es entsprechend weniger Folien.
-
-**Präsentation 1 - BC/CRS/SRS/SAS (3. Semester)**
-
-Inhalt :
-
-- **Teamvorstellung in der PPT mit Namen, Bild, eMail-Adresse, Matrikelnummer und Projektrolle auf der ersten Folie**. Die Dozenten benötigen das um Sie auseinanderhalten und ggf. kontaktieren zu können.
-- Vorstellung des Projektes (Master Usecase)
-- Darstellung des Funktionsumfangs, Beschreibung der funktionalen und nichtfunktionalen Anforderungen sowie Entscheidung darüber, ob Mandatory oder Optional.
-- Business Case (1 Folie)
-- Erläutern Sie Ihre Vorgehensweise und verwendete Tools.
-- Zeigen Sie, wie Sie modularisiert haben und wie der daraus abgeleitete Projektplan aussieht.
-- Beschreiben Sie die Systemarchitektur und die Modularisierung (Top Down)
-- Zeigen Sie wesentliche Lösungsansätze aus der SAS (zum Beispiel Paketformat, Anbindung an Java, ERD …).
-- Bei Bedarf können Sie auch schon Prototypen vorstellen.
-
-**Präsentation 2 - STP/STR/Produkt Präsentation/Selbstkritik (4. Semester)**
-
-Beispielhafter Inhalt:
-
-- Teamvorstellung in der PPT mit Namen, Bild, eMail-Adresse, Matrikelnummer und Projektrolle (erste Folie)
-- Vorstellung des Projektes (Master Usecase)
-- Produktübersicht (Black-Box)
-- Architekturübersicht und Module (White-Box)
-- Vorgehensweise beim Testen
-- Live Demo
-- Fazit / Ausblick
 
 ## **Dokumentation**
 
@@ -205,227 +250,45 @@ Es sollen am Schluss alle Dokumente aus Semester 3 und 4 enthalten sein (die neu
 | Inhalt: | GANTT, PSP |
 |     |     |
 
-## **FAQ**
+## **Präsentationen**
 
-**F: Woher kommen die Projektvorschläge?**
+**Allgemeines**
 
-A: Die Projektvorschläge wurden von den Dozenten erstellt und sind meist in deren fachlicher Anwendungsdomäne angesiedelt. Das ermöglicht zusätzlichen Wissenstransfer im Rahmen der Projektarbeit.
+- Zeitvorgabe (möglichst genau) 20 min
+- Etwa 10 min Fragen
+- Sie dürfen selbst entscheiden, wer und wie viele präsentieren.
+- Da Sie sehr viele Informationen in 20 Minuten darstellen müssen, überlegen Sie sich genau, was Sie sagen wollen und welche Informationen auf die Folien kommen. Planen Sie daher zur Vorbereitung der Präsentation ausreichend Zeit ein (30 min bis 1h pro Folie!).
+- Faustregel für die Anzahl der Folien ist eine nichtanimierte Folie pro Minute, mit Animationen werden es entsprechend weniger Folien.
 
-**F: Muss ich alle auch optionalen Features implementieren?**
+**Präsentation 1 - BC/CRS/SRS/SAS (3. Semester)**
 
-A: Es besteht kein Zwang, alle optionalen Requirements zu implementieren, wenn die Aufwände zu groß werden. Die optionalen Features dienen als Manövriermasse für Projektrisiken in der Umsetzungsphase.
+Inhalt :
 
-Sie sind angehalten, eine realistische Umfangsabschätzung der Projektaufgabe durchzuführen, die der eigenen Leistungsfähigkeit im zur Verfügung stehenden Zeitrahmen entspricht. **Entstehen muss am Ende ein funktionierendes und qualitativ überzeugendes sog. „Minimum Viable Product“ (MVP).** Features, die anfangs gemeinsam in der SRS als Mandatory vereinbart wurden, dürfen nicht ohne mit dem Auftraggeber (Dozenten) abgestimmte Begründung fehlen.
+- **Teamvorstellung in der PPT mit Namen, Bild, eMail-Adresse, Matrikelnummer und Projektrolle auf der ersten Folie**. Die Dozenten benötigen das um Sie auseinanderhalten und ggf. kontaktieren zu können.
+- Vorstellung des Projektes (Master Usecase)
+- Darstellung des Funktionsumfangs, Beschreibung der funktionalen und nichtfunktionalen Anforderungen sowie Entscheidung darüber, ob Mandatory oder Optional.
+- Business Case (1 Folie)
+- Erläutern Sie Ihre Vorgehensweise und verwendete Tools.
+- Zeigen Sie, wie Sie modularisiert haben und wie der daraus abgeleitete Projektplan aussieht.
+- Beschreiben Sie die Systemarchitektur und die Modularisierung (Top Down)
+- Zeigen Sie wesentliche Lösungsansätze aus der SAS (zum Beispiel Paketformat, Anbindung an Java, ERD …).
+- Bei Bedarf können Sie auch schon Prototypen vorstellen.
 
-**F: Was soll dieses Angebot mit dem Open-Source Projekt?**
+**Präsentation 2 - STP/STR/Produkt Präsentation/Selbstkritik (4. Semester)**
 
-A: Um die Wertigkeit der Projektarbeit für Sie zu steigern, wird angeregt, diese im Rahmen von Open-Source-Projekten abzuhandeln. Das hat folgende Vorteile:
+Beispielhafter Inhalt:
 
-- Die Studenten können später in Ihrem Lebenslauf auf Mitarbeit an einem veröffentlichten Open-Source-Projekt verweisen.
-- Die Dozenten können die Software von nachfolgenden Studenten-Jahrgängen weiterentwickeln lassen (siehe rechtliche Hinweise weiter unten).
+- Teamvorstellung in der PPT mit Namen, Bild, eMail-Adresse, Matrikelnummer und Projektrolle (erste Folie)
+- Vorstellung des Projektes (Master Usecase)
+- Produktübersicht (Black-Box)
+- Architekturübersicht und Module (White-Box)
+- Vorgehensweise beim Testen
+- Live Demo
+- Fazit / Ausblick
 
-Beispiele:
+# **Bewertung**
 
-- <https://autarchprinceps.github.io/MultiCastor/>
-- <https://github.com/GoranErdeljan/TINF19C-Team-4-Service-Registry>
-- <https://github.com/robinziegler/TINF21C_Team4_Modelling_Wizard_Improvements>
-- <https://github.com/mercal03/TINF21C_Team1_AAS-Server-Webclient>
-- <https://github.com/ilire0/TINF22F_Team-1_AAS-Webclient>
-- <https://github.com/MidFidelity/TINF21C_Team2_AAS_digital_nameplate>
-- <https://github.com/TTRSF/TINF22F-Team2-Nameplate-Generator>
+Die Note ergibt sich aus Folgender prozentualer Verteilung der Bewertung der Gruppenarbeit:
 
-**Rechtliche Hinweise**
-
-- Die erstellte Software ist ihr geistiges Eigentum. Sie haben das Vollkommene und alleinige Nutzungsrecht.
-- Die Dozenten werden den Source-Code nicht ohne ihr Einverständnis weiterverwenden.
-- Bei Veröffentlichung bzw. Offenlegung (z.B. als Open-Source-Projekt im GitHub-Repository) sind sie selbst für die Formulierung entsprechender Lizenzrechte verantwortlich. Es wird die Verwendung der MIT-Lizenz empfohlen.
-
-
-# **Projektthemen**
-
-Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten. Bei Unstimmigkeiten unter den Teams, wer welches Projekt machen möchte, treffen die Dozenten die finale Zuweisung. Folgende Themen werden bearbeitet:
-
-Team 1**:  Mnestix Webclient**
-
-| **Rolle** | **Name** | **Nachname** | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
-
-GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
-
-Team 2**:  BaSyx Webclient**
-
-| **Rolle** | **Name** |     | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
-
-GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
-
-Team 3**:  BaSyx Editor Plugin**
-
-| **Rolle** | **Name** |     | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
-
-GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
-
-Team 4:  **BaSyx Security Plugin**
-
-| **Rolle** |     | **Name** | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
-
-GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
-
-## Projekt 1: **Mnestix Webclient**
-
-Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer \[3\] dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
-
-![image](https://github.com/user-attachments/assets/99e5aab6-019f-4977-8b44-f53fdb0b71e5)
-
-Im Rahmen der Aufgabe soll das Open-Source-Projekt [Mnestix](https://github.com/mnestix/mnestix-browser) weiterentwickelt und insbesondere die Viewer-Usability für die einzelnen [IDTA-Submodelle](https://industrialdigitaltwin.org/en/content-hub/downloads).
-
-Betrachtet werden sollen vor allem die Submodelle „**Digital Nameplate**“, „**Technical Data**“, „**Hierarchical Structures enabling Bills of Material**“ \[4\], „**BillofProcesses**“**, „ServiceRequestNotification“.** Der [Nameplate-Generator](https://github.com/TTRSF/TINF22F-Nameplate-Generator) soll in die Anzeige des „Digital Nameplate“ integriert werden.
-
-Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
-
-1. Einarbeitung in das Thema AAS und Mnestix. Dazu den [AASX-Explorer](https://github.com/eclipse-aaspe/package-explorer/releases) installieren und ein [Mnestix-Frontend](https://github.com/mnestix/mnestix-browser) mit [BaySyx-Infrastruktur](https://basyx.org/get-started/introduction) aufsetzen. Hierzu die vorhandenen Tutorials anwenden, bewerten und identifizierte Lücken verbessern.
-2. Analyse der „Concept Description“ (Asset-Reference).
-3. Analyse (auch im Vergleich mit anderen AAS-UIs) und Definition eines verbesserten Usability-Konzeptes für die Anzeige von Submodellen im [Mnestix-UI](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html)
-4. Forken des [Mnestix-Repositories](https://github.com/mnestix/mnestix-browser), Änderungen vornehmen, Build-Prozess anstossen, Änderungen sichtbar?
-5. Umsetzung der Usability-Verbesserungen, Integration der Funktion „Nameplate-Generator“.
-6. Akzeptanzfindung: Die erstellten Lösungen in den Mainstream des Mnestix-Projekts einbringen.
-7. Test der Applikation gegen eine diverse AAS-Server-Infrastruktur.
-
-## Projekt 2: **BaSyx Webclient**
-
-Die sog. „Verwaltungsschale“ ([Asset Administration Shell](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html)) ist der Standard der Industrie 4.0 für die Modellierung von digitalen Abbildern (sog. „digitalen Zwillingen“) von Gegenständen wie bspw. Automatisierungsgeräten, -systemen und zu fertigenden Produkten. Von der [IDTA](https://industrialdigitaltwin.org/content-hub/downloads) bereitgestellte Tools wie der AASX Explorer dienen zum Erzeugen von dateibasierten Verwaltungsschalen (Typ 1) und sog. reaktive Verwaltungsschalen (Typ 2) können über eine standardisierte REST-API durch sog. AAS Server im Netzwerk bereitgestellt werden. Es existieren Web-Frontends zur Visualisierung, wobei diese eher technisch orientiert und nicht wirklich userfreundlich gestaltet sind.
-
-![image](https://github.com/user-attachments/assets/96525a7c-1fe8-4aff-9fed-9e92f22dfed6)
-
-Im Rahmen der Aufgabe soll das Open-Source-Projekt [BaSyx](https://github.com/eclipse-basyx/basyx-aas-web-ui) weiterentwickelt und insbesondere die Usability verbessert werden. Betrachtet werden sollen vor allem die [Submodelle](https://github.com/admin-shell-io/submodel-templates/tree/main/published) „**Digital Nameplate**“, „**Technical Data**“, „**Hierarchical Structures enabling Bills of Material**“, „**Bill of Process**“**, „ServiceRequestNotification“.** Der [Nameplate-Generator](https://github.com/TTRSF/TINF22F-Nameplate-Generator) soll in das [Submodel-Plugin](https://github.com/eclipse-basyx/basyx-aas-web-ui/tree/main/aas-web-ui/src/components/SubmodelPlugins) „Digital Nameplate“ integriert werden. Das Submodel-Plugin [„Bills of Material“](https://github.com/eclipse-basyx/basyx-aas-web-ui/blob/main/aas-web-ui/src/components/SubmodelPlugins/BillsOfMaterial.vue) soll weiterentwickelt werden, um Catena-X-konforme BOMs (Aspect Model „SingleLevelBomAsPlanned/Built“) zu unterstützen.
-
-Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
-
-1. Einarbeitung: Den [AASX-Explorer](https://github.com/eclipse-aaspe/package-explorer/releases) installieren und eine BaySyx-Infrastruktur [aufsetzen](https://basyx.org/get-started/introduction). Hierzu die vorhandenen Tutorials anwenden, bewerten und identifizierte Lücken in den Tutorials verbessern.
-2. Analyse (auch im Vergleich mit anderen AAS-UIs) und Definition eines verbesserten Usability-Konzeptes für das [BaSyx-UI](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html).
-3. Generelle Analyse der Usability des Frontend, Erarbeitung von Verbesserungsvorschlägen.
-4. Definition eines Editor-Modus vs. Viewer-Modus für jedes Submodell mit Reduktion der dargestellten Informationen im „Viewer“-Modus auf das Wesentliche, bspw. Ausblenden der zu technischen Strukturinformationen.
-5. Integration der Funktion „Nameplate-Generator“ in BaSyx.
-6. Implementierung der Submodell-Plugins.
-7. Akzeptanzfindung: Die erstellten Lösungen in den Mainstream des BaSyx-Projekts einbringen.
-8. Test der Applikation gegen eine diverse AAS-Server-Infrastruktur.
-
-## Projekt 3: **BaSyx Editor-Plugin**
-
-Das BaSyx-Ökosystem kann derzeit keine neue Verwaltungsschale erzeugen oder Teilmodelle in einer Verwaltungsschale hinzufügen. Hierzu gibt es bereits [Anforderungen im Ticket-System](https://github.com/eclipse-basyx/basyx-applications/issues/240) des [BaSyx-GUI-Projekts](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui), welche als Anforderungsgrundlage verwendet werden sollen.
-
-![image](https://github.com/user-attachments/assets/34d6e4bf-d1eb-443f-98cb-9d3f75068bf2)
-
-Für das vorliegende Projekt soll für das BaSyx-UI das AAS-Editor-Plugin erweitert werden. Im Plugin sollen folgende Anwendungsfälle unterstützt werden:
-
-![image](https://github.com/user-attachments/assets/34d49de1-2085-4f38-bab5-d259854c344c)
-
-1. AAS erzeugen: Die AAS-Zusammenstellung soll auswählbar sein. Die Optionen betreffen im wesentliche die Zusammenstellung der Teilmodelle, die die AAS mindestens enthalten soll. Zur Auswahl bereitstehende vordefinierte Zusammenstellungen (z.B. LS-AAS) sollen nicht hartcodiert, sondern in einer JSON-Konfigurationsdatei zum Plugin hinterlegt werden. 
-2. Submodell zu AAS hinzufügen.
-3. Der Submodell-Baum soll angezeigt werden können. Inhaltlich noch nicht vollständig befüllte Submodelle oder Attribute sollen optisch hervorgehoben werden (z.B. rot markiert).
-4. Externe Modell-Dateien sollen zur AAS hinzugefügt werden können. Nach einer Plausibilitätsprüfung soll eine [definitionsgemäße Verlinkung](C://Users/Markus%20Rentschler/Downloads/IDTA_02026-1-0_Submodel_ProvisionOf3DModels.pdf) mit MimeType der ausgewählten Datei in der Verwaltungsschale erfolgen.
-5. Beim Laden einer KBL- oder VEC-Datei soll diese inhaltlich analysiert und die Nameplate-Informationen sowie relevante Technischen Daten (z.B. Gewicht, Features des Leitungssatzes) extrahiert und in ein AAS-Submodel „[General Technical Data](https://github.com/admin-shell-io/submodel-templates/tree/main/published/Technical_Data/1/2)“ überführt werden können.
-6. Komponenten-Stammdaten von einem Zulieferer sollen als AAS-Typ1 (AASX-Datei) oder als AAS-Typ2 über das Netzwerk importiert werden können.
-7. Attribute in Submodellen sollen editierbar sein.
-
-Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
-
-1. Einarbeitung: Den [AASX-Explorer](https://github.com/eclipse-aaspe/package-explorer/releases) installieren und eine BaySyx-Infrastruktur [aufsetzen](https://basyx.org/get-started/introduction). Hierzu die vorhandenen Tutorials anwenden, bewerten und identifizierte Lücken in den Tutorials verbessern.
-2. Forken der benötigten [Basyx-Repositories](https://github.com/eclipse-basyx/basyx-aas-web-ui).
-3. Lokale Buildchain einrichten und beherrschen lernen: Änderungen vornehmen, Build-Prozess anstossen, sind die Änderungen sichtbar im lokalen Livesystem?
-4. Analyse des [BaSyx-UIs](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html), Definition eines Usability-Konzeptes und Workflows für die Editor-Anwendungsfälle.
-5. Implementierung und Test der Funktionalitäten
-6. Erstellung und Verlinkung einer strukturierten Online-Benutzerdokumentation (z.B. mit [ReadTheDocs](https://app.readthedocs.org/))
-7. Hosting der Funktionalität
-8. Akzeptanzfindung für die erstellte Lösung im Open-Source-Projekt herbeiführen
-
-## Projekt 4: **BaSyx Security-Plugin**
-
-Folgende Dokumente definieren bislang das Thema „Security für Verwaltungsschalen“:
-
-- [Security der Verwaltungsschale](https://www.plattform-i40.de/PI40/Redaktion/DE/Downloads/Publikation/security-der-verwaltungsschale.html) (02/2018)
-- [Zugriffssteuerung für Industrie 4.0-Komponenten zur Anwendung von Herstellern, Betreibern und Integratoren](https://www.plattform-i40.de/PI40/Redaktion/DE/Downloads/Publikation/zugriffssteuerung-industrie40-komponenten.html) (12/2018)
-- [Sicherer Downloadservice](https://www.plattform-i40.de/PI40/Redaktion/EN/Downloads/Publikation/secure_downloadservice.html) (12/2020)
-- [Details of the Asset Administration Shell Part 1, Chapter 6, ABAC & RBAC](https://www.plattform-i40.de/PI40/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html) (05/2022)
-
-In „[Details of the Administration Shell](https://admin-shell-io.github.io/aas-specs-antora/IDTA-01003-a/v3.0/index.html)“ war bis V30RC02 ein Security-Konzept für sowohl RBAC als auch ABAC enthalten. Hierfür exisitert auch eine prototypische AAS-Server-Implementierung (https://v3.admin-shell-io.com/), siehe Abbildung 18,  jedoch keine Benutzeroberfläche, um Zugriffsrichtlinien für AAS-Elemente zu konfigurieren.
-
-![image](https://github.com/user-attachments/assets/4eee8263-d331-442b-b0d3-95a7a1e74f57)
-
-Derzeit wird das AAS-Security-Konzept in der IDTA komplett überarbeitet und soll durch eine neue Spezifikation „Security“ ersetzt werden. Hierfür werden in der IDTA-Arbeitsgruppe vier Varianten diskutiert:
-
-1. Security Meta Model
-2. Security Submodel
-3. External Model XACL
-4. External Model ODRL, basierend auf Mechanismen, die auch CATENA-X nutzt.
-
-Eine erste Version der neuen Security-Spezifikation wird für Sept./Oktober 2024 erwartet.
-
-Im Gegensatz dazu ist derzeit ist in BaSyx nur eine einfache rollenbasierte Zugriffskontrolle (Role Based Access Control = RBAC) implementiert. Jeder Service (AAS Discovery, AAS-Environment, AAS Concept Description etc.) benötigt eine eigene Konfigurationsdatei, welche in JSON-Format die Rollen und Rechte spezifisch für bestimmte AAS mit IDs oder Wildcards beschreibt. Hierfür gibt es ein dediziertes [Konfigurationsdateiformat](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/v2/aas_discovery/features/authorization.html#rbac-rule-configuration) sowie ein SDK-Beispiel namens „[BaSyxSecured](https://github.com/eclipse-basyx/basyx-java-server-sdk/tree/main/examples/BaSyxSecured)“, welches den Authorisierungs-Server [Keycloak](https://www.keycloak.org/docs/latest/server_admin/index.html) verwendet.
-
-Es soll daher für das BaSyx-UI ein neues [Plugin](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/features/plugin_mechanism.html) „Security“ entwickelt werden, welches folgende Anwendungsfälle mit einer guten Benutzbarkeit unterstützt:
-
-1. Rollen verwalten und konfigurieren.
-2. Rechtezuweisungen auf AAS-, Submodell- und Attributebene (ABAC) konfigurieren.
-3. Identitäten verwalten und zu Rollen zuordnen
-4. Import/Export von Zugangsrichtlinien für den externen Authorisierungs-Server [Keycloak](https://www.keycloak.org/docs/latest/server_admin/index.html)
-
-Es wird dabei von folgenden Annahmen ausgegangen:
-
-1. Die Zugangsrichtlinien (Policies) werden vom AAS-Verantwortlichen eingerichtet
-2. Ein (externer) Benutzer möchte auf eine AAS zugreifen
-3. Das Identitätsmanagement wird von einem Identitätsanbieter (IdP) durchgeführt. Der IdP stellt ein Access Token zur Verfügung, das für den AAS-Server relevante Angaben enthält. Das Token (JWT, JSON Web Token) wird vom IdP signiert.
-4. Der AAS-Server vertraut dem Identity Provider
-5. Der Zugang zur AAS wird auf der Grundlage des Access Token und der Zugangsrichtlinien gewährt
-
-Im Kern müssen zu dem Thema AAS-Security folgende Fragestellungen geklärt werden:
-
-- Wo sollen die Zugangsrichtlinien (Policies) gespeichert werden?
-  - Innerhalb der AAS selbst?
-  - In einem separaten Policy-Repository?
-- Wie können die Zugangsrichtlinien abgebildet werden?
-  - Mit AAS-Elementen?
-  - Mit bestehenden Sprachen wie [XACML](https://en.wikipedia.org/wiki/XACML) oder [ODRL](https://en.wikipedia.org/wiki/ODRL)?
-- Wie wird die Zugangsrichtlinien-Entscheidung implementiert?
-  - Mit einem Interpreter, der zum Zeitpunkt der Zugriffsentscheidung aufgerufen wird?
-  - Integriert in Such- und Abfragestrukturen?
-
-![image](https://github.com/user-attachments/assets/96419526-2e05-47d6-9083-47ed9e4c08a9)
-
-Folgende Teilaufgaben müssen im Wesentlichen bearbeitet werden:
-
-1. Einarbeitung in [Keycloak](https://www.keycloak.org/), [XACML](https://en.wikipedia.org/wiki/XACML), [ODRL](https://en.wikipedia.org/wiki/ODRL).
-2. Einarbeitung in [BaSyx](https://eclipse.dev/basyx). Dazu eine BaySyx-Infrastruktur [aufsetzen](https://basyx.org/get-started/introduction). Die vorhandenen Tutorials anwenden, qualitativ bewerten und identifizierte Lücken in den Tutorials verbessern.
-3. Forken der benötigten [Basyx-Repositories](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui).
-4. Lokale Buildchain einrichten und beherrschen lernen: Änderungen vornehmen, Build-Prozess anstossen, sind die Änderungen sichtbar im lokalen Livesystem?
-5. Analyse des [BaSyx-UIs](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html), Definition eines Usability-Konzeptes und Workflows für die Security-Anwendungsfälle.
-6. Implementierung und Test der Plugin-Funktionalitäten (Benutzeroberflächen, Import/Export der Policy-Dateien)
-7. Erstellung und Verlinkung einer strukturierten Online-Benutzerdokumentation (z.B. mit [ReadTheDocs](https://app.readthedocs.org/))
-8. Hosting der Funktionalität
-9. Akzeptanzfindung für die erstellte Lösung im Open-Source-Projekt herbeiführen
+- 2/3 kollektive Leistung für die Implementierung, Entwicklungsdokumentation und Präsentation
+- 1/3 individuelle Leistung des Einzelnen in seiner Rolle und für sein verantwortliches Modul bzw. Dokument. Bitte sorgen Sie dafür, dass Ihr individueller Beitrag klar identifizierbar ist, auch in den Wiki-Beiträgen im Repository!
