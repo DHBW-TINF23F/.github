@@ -8,6 +8,8 @@
 
 ## Online Demos
 ### [AAS-Demo ZVEI (PCF)](https://pcf.dpp40-2-v2.industrialdigitaltwin.org/pcf2)
+### [AAS-Demo WAGO](https://aas.wago.com/?aas=https://c1.api.wago.com/smartdata-aas-env/shells/aHR0cHM6Ly93YWdvLmNvbS9pZHMvYWFzLzc1MC04MjEy)
+### [AAS-Demo WAGO](https://aas.wago.com/?aas=https://c1.api.wago.com/smartdata-aas-env/shells/aHR0cHM6Ly93YWdvLmNvbS9pZHMvYWFzLzcwNC01MDA0)
 ### [AAS-Demo Harting](https://dpp40.harting.com:3000/?aas=https://dpp40.harting.com:8081/shells/aHR0cHM6Ly9kcHA0MC5oYXJ0aW5nLmNvbS9zaGVsbHMvWlNOMQ)
 ### [AAS-Demo R.Stahl](https://demo-digital-twin.r-stahl.com/)
 ### [AAS-Demo Mnestix](https://mnestix-prod.azurewebsites.net/en/list)
