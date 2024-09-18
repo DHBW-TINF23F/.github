@@ -1,8 +1,24 @@
-# Tutorials & Resources
+## Tutorials & Resources
 
-## [BaSyx Getting Started](https://basyxhack.iese.de/docs.html)
-## [BaSyx UI](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html)
-## [Eclipse Papyrus™ Modeling environment](https://eclipse.dev/papyrus/components/manufacturing/documentation.html)
+### [AASX Package Explorer](https://github.com/admin-shell-io/aasx-package-explorer)
+### [BaSyx Getting Started](https://basyxhack.iese.de/docs.html)
+### [BaSyx UI](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html)
+### [Eclipse Papyrus™ Modeling environment](https://eclipse.dev/papyrus/components/manufacturing/documentation.html)
 ![image](https://github.com/user-attachments/assets/1fe61e81-ae07-4423-9c52-48a288d9884c)
-## [Mnestix Demo](https://mnestix-prod.azurewebsites.net/en/list)
 
+## Online Demos
+### [AAS-Demo ZVEI (PCF)](https://pcf.dpp40-2-v2.industrialdigitaltwin.org/pcf2)
+### [AAS-Demo Harting](https://dpp40.harting.com:3000/?aas=https://dpp40.harting.com:8081/shells/aHR0cHM6Ly9kcHA0MC5oYXJ0aW5nLmNvbS9zaGVsbHMvWlNOMQ)
+### [AAS-Demo R.Stahl](https://demo-digital-twin.r-stahl.com/)
+### [AAS-Demo Mnestix](https://mnestix-prod.azurewebsites.net/en/list)
+### [CADENAS 3DFindIt](https://www.3dfindit.com/de/)
+
+## Standards & Specification
+### [IDTA](https://industrialdigitaltwin.org (IDTA))
+### [IDTA Submodels](https://github.com/admin-shell-io/submodel-templates/tree/main/published/)
+### [AAS openapi specifications](https://github.com/admin-shell-io/aas-specs-api?tab=readme-ov-file) 
+
+## Projects
+### [BaSyx Project](https://github.com/eclipse-basyx)
+### [Mnestix Project](https://github.com/mnestix/mnestix-browser)
+### [AAS Digital Nameplate project](https://github.com/mk28/TINF21C_Team2_AAS_digital_nameplate)
