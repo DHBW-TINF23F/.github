@@ -11,10 +11,12 @@
 ### [AAS-Demo Harting](https://dpp40.harting.com:3000/?aas=https://dpp40.harting.com:8081/shells/aHR0cHM6Ly9kcHA0MC5oYXJ0aW5nLmNvbS9zaGVsbHMvWlNOMQ)
 ### [AAS-Demo R.Stahl](https://demo-digital-twin.r-stahl.com/)
 ### [AAS-Demo Mnestix](https://mnestix-prod.azurewebsites.net/en/list)
+
+## [Lösungen](https://industrialdigitaltwin.org/solutions-hub)
 ### [CADENAS 3DFindIt](https://www.3dfindit.com/de/)
 
 ## Standards & Specification
-### [IDTA](https://industrialdigitaltwin.org (IDTA))
+### [IDTA](https://industrialdigitaltwin.org/content-hub/downloads)
 ### [IDTA Submodels](https://github.com/admin-shell-io/submodel-templates/tree/main/published/)
 ### [AAS openapi specifications](https://github.com/admin-shell-io/aas-specs-api?tab=readme-ov-file) 
 
