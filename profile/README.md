@@ -14,53 +14,56 @@ Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten
 
 ### **Team 1:  [Mnestix Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project1.md)**
 
-| **Rolle** | **Name** | **Nachname** | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
-
+| **Rolle** | **Name** | **eMail** | 
+| --- | --- | --- |
+| Projektleiter |  Michael Biser   |     |       
+| Produktmanager | Tobias Katz    |     |      
+| Testmanager | Matthias Fauser  |     |       
+| Systemarchitekt |  Dominic Maurach   |     |      
+| UI/UX-Architekt |   Max Hiller|     |     
+| Dokumentation | Pratyaksh Jain    |     |     
+| Entwickler |   Tewes Eichwald  |     |   
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 
 ### **Team 2:  [BaSyx Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** |     | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
+| **Rolle** | **Name** | **eMail** |
+| --- | --- | --- | 
+| Projektleiter | Jhilmar Pardo    |     |  
+| Produktmanager |   ???  |     |    
+| Testmanager |  ???   |     |     
+| Systemarchitekt | ???    |      |  
+| UI/UX-Architekt | ??? |     |      
+| Dokumentation |  ???   |     |      
+| Entwickler |  ???   |     |      
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
 ### **Team 3:  [BaSyx Editor Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** |     | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
+| **Rolle** | **Name** | **eMail** |
+| --- | --- | --- |
+| Projektleiter |  Darius Brak   |     |   
+| Produktmanager | Noah Vesenjak     |     |     
+| Testmanager |  Celil Sahin   |     |     
+| Systemarchitekt | Daniel Jatsenko    |     |    
+| UI/UX-Architekt | Glenn Strommer   |     |      
+| Dokumentation | Philipp Reich    |     |    
+| Entwickler | Daniel Serban    |     |    
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
 ### **Team 4: [BaSyx Security Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** |     | **Name** | **eMail** | **Matrikel** |
-| --- | --- | --- | --- | --- |
-| Projektleiter |     |     |     |     |
-| Produktmanager |     |     |     |     |
-| Testmanager |     |     |     |     |
-| Systemarchitekt |     |     |     |     |
-| Dokumentation |     |     |     |     |
-| Entwickler |     |     |     |     |
+| **Rolle** |  **Name** | **eMail** | 
+| --- | --- |  --- | 
+| Projektleiter |  Jannik Zobel   |     |   
+| Produktmanager | Lukas Gagstatter |     |    
+| Testmanager | Francesco Intorre  |     |    
+| Systemarchitekt | Tobias Wiedemann    |     |     
+| UI/UX-Architekt |  Moritz Greiner   |     |     
+| Dokumentation |  Robert Limberger   |     |    
+| Entwickler |   Felix Uhlig  |     |    
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
