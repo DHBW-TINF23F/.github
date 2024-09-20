@@ -27,8 +27,8 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 
 ### **Team 2:  [BaSyx Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** | **eMail** |
-| --- | --- | --- | 
+| **Rolle** | **Name** | **eMail** | 
+| --- | --- | --- |
 | Projektleiter | Jhilmar Pardo    |     |  
 | Produktmanager |   ???  |     |    
 | Testmanager |  ???   |     |     
@@ -41,7 +41,7 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
 ### **Team 3:  [BaSyx Editor Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** | **eMail** |
+| **Rolle** | **Name** | **eMail** | 
 | --- | --- | --- |
 | Projektleiter |  Darius Brak   |     |   
 | Produktmanager | Noah Vesenjak     |     |     
@@ -49,14 +49,14 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 | Systemarchitekt | Daniel Jatsenko    |     |    
 | UI/UX-Architekt | Glenn Strommer   |     |      
 | Dokumentation | Philipp Reich    |     |    
-| Entwickler | Daniel Serban    |     |    
+| Entwickler | Daniel Serban    |     |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
 ### **Team 4: [BaSyx Security Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** |  **Name** | **eMail** | 
-| --- | --- |  --- | 
+| **Rolle** | **Name** | **eMail** | 
+| --- | --- | --- |
 | Projektleiter |  Jannik Zobel   |     |   
 | Produktmanager | Lukas Gagstatter |     |    
 | Testmanager | Francesco Intorre  |     |    
@@ -167,7 +167,7 @@ Achten Sie auf die in der Vorlesung behandelten Themen Requirements Engineering 
 **Allgemeines**
 
 - Lehnen Sie sich für die Gliederung von CRS uns SRS an die [IEEE-830](https://de.wikipedia.org/wiki/Software_Requirements_Specification)
-- Diese Gleiderungsvorlage ist sehr allgemein. Es kann also sein, dass Sie nicht zu allen Punkten, die erwähnt sind, etwas zu schreiben haben.
+- Diese Gliederungsvorlage ist sehr allgemein. Es kann also sein, dass Sie nicht zu allen Punkten, die erwähnt sind, etwas zu schreiben haben.
 - Als Ablage wird die Verwendung des Projektwiki des Repositories (GitHub) empfohlen oder eine Struktur von Markdown-Dateien direkt im Repository. 
 - Erlaubte Sprachen für die Projektdokumention sind Deutsch und Englisch, für die SAS ist Englisch verpflichtend.
 
