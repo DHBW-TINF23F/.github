@@ -22,7 +22,8 @@ Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten
 | Systemarchitekt |  Dominic Maurach   |     |      
 | UI/UX-Architekt |   Max Hiller|     |     
 | Dokumentation | Pratyaksh Jain    |     |     
-| Entwickler |   Tewes Eichwald  |     |   
+| Entwickler |   Tewes Eichwald  |     |
+
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 
 ### **Team 2:  [BaSyx Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
