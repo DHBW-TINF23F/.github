@@ -14,57 +14,57 @@ Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten
 
 ### **Team 1:  [Mnestix Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project1.md)**
 
-| **Rolle** | **Name** | **eMail** | 
+| **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter |  Michael Biser   |     |       
-| Produktmanager | Tobias Katz    |     |      
-| Testmanager | Matthias Fauser  |     |       
-| Systemarchitekt |  Dominic Maurach   |     |      
-| UI/UX-Architekt |   Max Hiller|     |     
-| Dokumentation | Pratyaksh Jain    |     |     
-| Entwickler |   Tewes Eichwald  |     |
+| Projektleiter | Michael Biser |     |
+| Produktmanager | Tobias Katz |     |
+| Testmanager | Matthias Fauser |     |
+| Systemarchitekt | Dominic Maurach |     |
+| UI/UX-Architekt | Max Hiller |     |
+| Dokumentation | Pratyaksh Jain |     |
+| Entwickler | Tewes Eichwald |     |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 
 ### **Team 2:  [BaSyx Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** | **eMail** | 
+| **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Jhilmar Pardo    |     |  
-| Produktmanager |   ???  |     |    
-| Testmanager |  ???   |     |     
-| Systemarchitekt | ???    |      |  
-| UI/UX-Architekt | ??? |     |      
-| Dokumentation |  ???   |     |      
-| Entwickler |  ???   |     |      
+| Projektleiter | Jhilmar Pardo |     |
+| Produktmanager | ??? |     |
+| Testmanager | ??? |     |
+| Systemarchitekt | ??? |     |
+| UI/UX-Architekt | ??? |     |
+| Dokumentation | ??? |     |
+| Entwickler | ??? |     |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
 ### **Team 3:  [BaSyx Editor Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** | **eMail** | 
+| **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter |  Darius Brak   |     |   
-| Produktmanager | Noah Vesenjak     |     |     
-| Testmanager |  Celil Sahin   |     |     
-| Systemarchitekt | Daniel Jatsenko    |     |    
-| UI/UX-Architekt | Glenn Strommer   |     |      
-| Dokumentation | Philipp Reich    |     |    
-| Entwickler | Daniel Serban    |     |
+| Projektleiter | Darius Brak |     |
+| Produktmanager | Noah Vesenjak |     |
+| Testmanager | Celil Sahin |     |
+| Systemarchitekt | Daniel Jatsenko |     |
+| UI/UX-Architekt | Glenn Strommer |     |
+| Dokumentation | Philipp Reich |     |
+| Entwickler | Daniel Serban |     |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
 ### **Team 4: [BaSyx Security Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
-| **Rolle** | **Name** | **eMail** | 
+| **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter |  Jannik Zobel   |     |   
-| Produktmanager | Lukas Gagstatter |     |    
-| Testmanager | Francesco Intorre  |     |    
-| Systemarchitekt | Tobias Wiedemann    |     |     
-| UI/UX-Architekt |  Moritz Greiner   |     |     
-| Dokumentation |  Robert Limberger   |     |    
-| Entwickler |   Felix Uhlig  |     |    
+| Projektleiter | Jannik Zobel |     |
+| Produktmanager | Lukas Gagstatter |     |
+| Testmanager | Francesco Intorre |     |
+| Systemarchitekt | Tobias Wiedemann |     |
+| UI/UX-Architekt | Moritz Greiner |     |
+| Dokumentation | Robert Limberger |     |
+| Entwickler | Felix Uhlig |     |
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
@@ -117,7 +117,7 @@ Beispiele:
   - Technischer Redakteur
   - Jeder ist auch Entwickler
 - Jeder im Team muss für mindestens ein Programmmodul oder Dokument die Verantwortung inkl. Implementierung übernehmen und dies deutlich kennzeichnen, da es als Grundlage für die individuelle Benotung herangezogen wird.
-- Die Projektdokumentation soll in einem Github-Repository abgewickelt werden.
+- Die Projektdokumentation soll in einem GitHub-Repository abgewickelt werden.
 - Die Teamsitzungen mit Beschlüssen, Status und Ergebnissen müssen in einem einfach lesbaren Protokoll im Repository (z.B. fortlaufend aktualisiertes Issue im Issue-Tracker) dokumentiert werden.
 
 ## **Aufgabe im 3. Semester:**
@@ -139,8 +139,8 @@ Achten Sie auf die in der Vorlesung behandelten Themen Requirements Engineering 
 3. Erstellen Sie im Wiki des Repositories das Pflichtenheft (SRS), in dem das System aus Black-Box-Sicht definiert und modelliert wird.
 4. Erstellen Sie im Wiki des Repositories die Architekturspezifikation (SAS), modellieren Sie dort das System aus White-Box-Sicht. Leiten Sie die zu implementierenden Module daraus ab und weisen Sie diese im Projektplan als Arbeitspakete den Teammitgliedern zu. Legen Sie eine entsprechende Verzeichnisstruktur für die zugehörigen Sourcecodedateien in GitHub an.
 5. Updaten Sie die Projektplanung im Repository („Projects“ in GitHub). Versuchen Sie dabei, die Aufgaben zu parallelisieren und beachten Sie Abhängigkeiten zwischen Arbeitspaketen.
-6. **Die Dozenten raten dringend dazu, bereits im 3. Semester mit der Implementierung eines Prototyps zu beginnen, um das Projektrisiko im 4.Semester entsprechend zu verringern.**
-7. Jedes Team präsentiert die Ergebnisse des 3.Semesters in einer 20minütigen Präsentation mit anschließender 10minütiger Verteidigung (üblicherweise im letzten Vorlesungstermin).
+6. **Die Dozenten raten dringend dazu, bereits im 3. Semester mit der Implementierung eines Prototyps zu beginnen, um das Projektrisiko im 4. Semester entsprechend zu verringern.**
+7. Jedes Team präsentiert die Ergebnisse des 3. Semesters in einer 20minütigen Präsentation mit anschließender 10minütiger Verteidigung (üblicherweise im letzten Vorlesungstermin).
 
 **Abzugeben sind am Ende des 3. Semesters zwei Tage vor dem Präsentationstermin folgende Dokumente in elektronischer Form in Ihrem GitHub-Repository:**
 
@@ -201,58 +201,59 @@ Es sollen am Schluss alle Dokumente aus Semester 3 und 4 enthalten sein (die neu
 | **CRS** |     |
 | --- | --- |
 | Zweck: | Beschreibt die Kundenwünsche an das Produkt |
-| Umfang: | 5 -10 Seiten |
-| Vorlage: | Ja  |
-| Methoden: | Strukturierte Anforderung (Schablone), Fließtext, Skizzen der Oberfläche, Use Cases, Anwendungsfälle, Geschäftsvorfälle, … |
+| Umfang: | 5 - 10 Seiten |
+| Vorlage: | Ja |
+| Methoden: | Strukturierte Anforderung (Schablone), Fließtext, Skizzen der Oberfläche, Use Cases, Anwendungsfälle, Geschäftsvorfälle, ... |
 | Inhalt: | Siehe Vorlage |
-|     |     |
 
-<table><tbody><tr><th><p><strong>BC</strong></p></th><th></th></tr><tr><td><p>Zweck:</p></td><td><p>Kurze Betrachtung der wirtschaftlichen Aspekte des Projekts</p></td></tr><tr><td></td><td><p>Max. 4 Seiten</p></td></tr><tr><td><p>Vorlage:</p></td><td><p>Nein</p></td></tr><tr><td><p>Methoden:</p></td><td><p>Voll / Teilkosten Rechnung, Verfahren zur Risikoanalyse, ...</p></td></tr><tr><td><p>Inhalt:</p></td><td><p>Kostenrechnung:</p><ul><li>Fixe Kosten und Kosten für die einzelnen Arbeitspakete/Phasen.</li></ul><p>Rentabilitätsrechnung:</p><ul><li>Wie verdiene ich Geld damit?</li></ul><p>Erste grobe Projektplanung als GANTT-Diagramm</p><ul><li>Wie kann ich das Projekt abwickeln?</li></ul></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+| **BC** |     |
+| --- | --- |
+| Zweck: | Kurze Betrachtung der wirtschaftlichen Aspekte des Projekts |
+| Umfang: | Max. 4 Seiten |
+| Vorlage: | Nein |
+| Methoden: | Voll- / Teilkostenrechnung, Verfahren zur Risikoanalyse, ... |
+| Inhalt: | Kostenrechnung:<ul><li>Fixe Kosten und Kosten für die einzelnen Arbeitspakete/Phasen.</li></ul>Rentabilitätsrechnung:<ul><li>Wie verdiene ich Geld damit?</li></ul>Erste grobe Projektplanung als GANTT-Diagramm<ul><li>Wie kann ich das Projekt abwickeln?</li></ul> |
 
 | **SRS** |     |
 | --- | --- |
-| Zweck: | Beschreibt den Produktumfang und fixiert das Feature-Set aus Black-Box-Sicht. |
-|     | 10 -15 Seiten |
-| Vorlage: | Ja  |
-| Methoden: | Trackbare strukturierte Anforderungen, klar formuliert (Schablone), Skizzen der Oberfläche, Prototypen, Use Cases mit Ablaufdiagrammen, … |
+| Zweck: | Beschreibt den Produktumfang und fixiert das Feature-Set aus Black-Box-Sicht |
+| Umfang: | 10 - 15 Seiten |
+| Vorlage: | Ja |
+| Methoden: | Trackbare strukturierte Anforderungen, klar formuliert (Schablone), Skizzen der Oberfläche, Prototypen, Use Cases mit Ablaufdiagrammen, ... |
 | Inhalt: | Siehe Vorlage |
-|     |     |
 
 | **SAS** |     |
 | --- | --- |
 | Zweck: | Beschreibt die konzeptionelle Lösung des Gesamtsystems (Grey-Box, White-Box) |
-|     | 5 -15 Seiten |
-| Vorlage: | Ja  |
-| Methoden: | Architektur-, Komponenten-, Klassen-, Kommunikations-, Ablauf- und Sequenzdiagramme, ERM, Datenmodelle, … |
+| Umfang: | 5 - 15 Seiten |
+| Vorlage: | Ja |
+| Methoden: | Architektur-, Komponenten-, Klassen-, Kommunikations-, Ablauf- und Sequenzdiagramme, ERM, Datenmodelle, ... |
 | Inhalt: | Siehe Vorlage |
-|     |     |
 
 | **STP** |     |
 | --- | --- |
 | Zweck: | Beschreibt die Systemtestfälle und die Testplanung für den Systemtest des Gesamtsystems (Black-Box) |
-|     | 5 -15 Seiten, ca. 10 ausgearbeitete Testfälle |
-| Vorlage: | Ja  |
-| Methoden: | Anforderungsbasiertes Testen, Äquivalenzklassenbildung, Grenzwertanalyse, Exploratives Testen, Trennung von Testanweisungen und Testdaten. |
+| Umfang: | 5 - 15 Seiten, ca. 10 ausgearbeitete Testfälle |
+| Vorlage: | Ja |
+| Methoden: | Anforderungsbasiertes Testen, Äquivalenzklassenbildung, Grenzwertanalyse, Exploratives Testen, Trennung von Testanweisungen und Testdaten |
 | Inhalt: | Siehe Vorlage |
-|     |     |
 
 | **MeetingMinutes** |     |
 | --- | --- |
 | Zweck: | Dokumentiert Ihre Projektaktivitäten |
 | Umfang: | 10 - 15 Zeilen Status pro Sitzung<br><br>1 Sitzung pro Woche |
 | Vorlage: | Nein |
-| Methoden: | Fortlaufend ergänztes Dokument mit Inhaltsverzeichnis, für jede Sitzung ein Unterkapitel. |
+| Methoden: | Fortlaufend ergänztes Dokument mit Inhaltsverzeichnis, für jede Sitzung ein Unterkapitel |
 | Inhalt: | Status der Arbeiten, Probleme, Beschlüsse |
-| Hinweis: | Fortlaufende Protokolle als Kapitel in einer einzelnen Datei. |
+| Hinweis: | Fortlaufende Protokolle als Kapitel in einer einzelnen Datei |
 
 | **PM Dokument** |     |
 | --- | --- |
 | Zweck: | Projektplanung |
 | Umfang: | Max. 5 Seiten |
-| Vorlage: | Nein, empfohlen wird „Projects“ im Github |
+| Vorlage: | Nein, empfohlen wird „Projects“ im GitHub |
 | Methoden: | Siehe PM VL |
 | Inhalt: | GANTT, PSP |
-|     |     |
 
 ## **Präsentationen**
 
@@ -275,7 +276,7 @@ Inhalt :
 - Erläutern Sie Ihre Vorgehensweise und verwendete Tools.
 - Zeigen Sie, wie Sie modularisiert haben und wie der daraus abgeleitete Projektplan aussieht.
 - Beschreiben Sie die Systemarchitektur und die Modularisierung (Top Down)
-- Zeigen Sie wesentliche Lösungsansätze aus der SAS (zum Beispiel Paketformat, Anbindung an Java, ERD …).
+- Zeigen Sie wesentliche Lösungsansätze aus der SAS (zum Beispiel Paketformat, Anbindung an Java, ERD, ...).
 - Bei Bedarf können Sie auch schon Prototypen vorstellen.
 
 **Präsentation 2 - STP/STR/Produkt Präsentation/Selbstkritik (4. Semester)**
