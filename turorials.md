@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/1fe61e81-ae07-4423-9c52-48a288d9884c)
 
 ## Online Demos
+https://92.205.177.115:8000/#/shell/aHR0cHM6Ly9zbWFydGZhY3RvcnkuZGUvc2hlbGxzLzMwY2ExMzMxLTE2YWItNGIzNy04OGFkLTY4NDQ0OGZiYTY4MQ==
+
 ### [AAS-Demo ZVEI (PCF)](https://pcf.dpp40-2-v2.industrialdigitaltwin.org/pcf2)
 ### [AAS-Demo Mnestix](https://mnestix-prod.azurewebsites.net/en/list)
 ### [AAS-Demo WAGO](https://aas.wago.com/?aas=https://c1.api.wago.com/smartdata-aas-env/shells/aHR0cHM6Ly93YWdvLmNvbS9pZHMvYWFzLzc1MC04MjEy)
