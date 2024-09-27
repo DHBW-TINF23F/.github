@@ -58,13 +58,13 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Jannik Zobel |     |
-| Produktmanager | Lukas Gagstatter |     |
-| Testmanager | Francesco Intorre |     |
-| Systemarchitekt | Tobias Wiedemann |     |
-| UI/UX-Architekt | Moritz Greiner |     |
-| Dokumentation | Robert Limberger |     |
-| Entwickler | Felix Uhlig, Jhilmar Pardo |     |
+| Projektleiter | Jannik Zobel | inf23118@lehre.dhbw-stuttgart.de |
+| Produktmanager | Lukas Gagstatter | inf23139@lehre.dhbw-stuttgart.de |
+| Testmanager | Francesco Intorre | inf23209@lehre.dhbw-stuttgart.de |
+| Systemarchitekt | Tobias Wiedemann | inf23183@lehre.dhbw-stuttgart.de |
+| UI/UX-Architekt | Moritz Greiner | inf23150@lehre.dhbw-stuttgart.de    |
+| Dokumentation | Robert Limberger | inf23089@lehre.dhbw-stuttgart.de |
+| Entwickler | Felix Uhlig, Jhilmar Pardo | inf23173@lehre.dhbw-stuttgart.de, inf23087@lehre.dhbw-stuttgart.de|
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
