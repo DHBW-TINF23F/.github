@@ -66,10 +66,6 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 | Dokumentation | Robert Limberger | inf23089@lehre.dhbw-stuttgart.de |
 | Entwickler | Felix Uhlig, Jhilmar Pardo | inf23173@lehre.dhbw-stuttgart.de, inf23087@lehre.dhbw-stuttgart.de|
 
-
----
-
-
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
 ### **FAQ**
