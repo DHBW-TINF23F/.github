@@ -1,6 +1,6 @@
 # **Informationen zur Softwaretechnik-Vorlesung TINF23F**
 
-![image](https://github.com/user-attachments/assets/f499bccf-4b02-42ff-a442-4e11143b32de)
+<img src="https://github.com/user-attachments/assets/f499bccf-4b02-42ff-a442-4e11143b32de" alt="Phasen mit Artefekaten" width="650"/>
 
 ## **Projektarbeit**
 
@@ -16,13 +16,13 @@ Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | ??? |     |
-| Produktmanager | ??? |     |
-| Testmanager | ??? |     |
-| Systemarchitekt | ??? |     |
-| UI/UX-Architekt | ??? |     |
-| Dokumentation | ??? |     |
-| Entwickler | ??? |     |
+| Projektleiter | --- |     |
+| Produktmanager | --- |     |
+| Testmanager | --- |     |
+| Systemarchitekt | --- |     |
+| UI/UX-Architekt | --- |     |
+| Dokumentation | --- |     |
+| Entwickler | --- |     |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 
@@ -35,8 +35,8 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 | Testmanager | Pratyaksh Jain | inf23108@lehre.dhbw-stuttgart.de |
 | Systemarchitekt | Dominic Maurach | inf23023@lehre.dhbw-stuttgart.de |
 | UI/UX-Architekt | Max Hiller | inf23178@lehre.dhbw-stuttgart.de |
-| Dokumentation | Tobias Katz |  |
-| Entwickler | Sayed Mohamed, Tewes Eichwald | inf23170@lehre.dhbw-stuttgart.de,  |
+| Dokumentation | Tobias Katz | inf23101@lehre.dhbw-stuttgart.de |
+| Entwickler | Sayed Mohamed, Tewes Eichwald | inf23170@lehre.dhbw-stuttgart.de, inf23181@lehre.dhbw-stuttgart.de |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
@@ -50,7 +50,7 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 | Systemarchitekt | Daniel Jatsenko |     |
 | UI/UX-Architekt | Glenn Strommer |     |
 | Dokumentation | Philipp Reich |     |
-| Entwickler | Daniel Serban |     |
+| Entwickler | Daniel Serban |    |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
@@ -65,6 +65,10 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 | UI/UX-Architekt | Moritz Greiner | inf23150@lehre.dhbw-stuttgart.de    |
 | Dokumentation | Robert Limberger | inf23089@lehre.dhbw-stuttgart.de |
 | Entwickler | Felix Uhlig, Jhilmar Pardo | inf23173@lehre.dhbw-stuttgart.de, inf23087@lehre.dhbw-stuttgart.de|
+
+
+---
+
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
@@ -97,6 +101,8 @@ Beispiele:
 - <https://github.com/MidFidelity/TINF21C_Team2_AAS_digital_nameplate>
 - <https://github.com/TTRSF/TINF22F-Team2-Nameplate-Generator>
 
+---
+
 **Rechtliche Hinweise**
 
 - Die erstellte Software ist ihr geistiges Eigentum. Sie haben das Vollkommene und alleinige Nutzungsrecht.
@@ -119,6 +125,8 @@ Beispiele:
 - Jeder im Team muss für mindestens ein Programmmodul oder Dokument die Verantwortung inkl. Implementierung übernehmen und dies deutlich kennzeichnen, da es als Grundlage für die individuelle Benotung herangezogen wird.
 - Die Projektdokumentation soll in einem GitHub-Repository abgewickelt werden.
 - Die Teamsitzungen mit Beschlüssen, Status und Ergebnissen müssen in einem einfach lesbaren Protokoll im Repository (z.B. fortlaufend aktualisiertes Issue im Issue-Tracker) dokumentiert werden.
+
+---
 
 ## **Aufgabe im 3. Semester:**
 
