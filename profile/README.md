@@ -44,13 +44,13 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Darius Brak |     |
-| Produktmanager | Noah Vesenjak |     |
-| Testmanager | Celil Sahin |     |
-| Systemarchitekt | Daniel Jatsenko |     |
-| UI/UX-Architekt | Glenn Strommer |     |
-| Dokumentation | Philipp Reich |     |
-| Entwickler | Daniel Serban |    |
+| Projektleiter | Darius Brak | inf23184@lehre.dhbw-stuttgart.de    |
+| Produktmanager | Noah Vesenjak | inf23197@lehre.dhbw-stuttgart.de    |
+| Testmanager | Celil Sahin | inf23194@lehre.dhbw-stuttgart.de    |
+| Systemarchitekt | Daniel Jatsenko | inf23009@lehre.dhbw-stuttgart.de    |
+| UI/UX-Architekt | Glenn Strommer | inf23004@lehre.dhbw-stuttgart.de    |
+| Dokumentation | Philipp Reich | inf23065@lehre.dhbw-stuttgart.de    |
+| Entwickler | Daniel Serban | inf23081@lehre.dhbw-stuttgart.de   |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
