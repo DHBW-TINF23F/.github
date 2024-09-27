@@ -30,13 +30,13 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Michael Biser |     |
-| Produktmanager | Tobias Katz |     |
-| Testmanager | Matthias Fauser |     |
-| Systemarchitekt | Dominic Maurach |     |
-| UI/UX-Architekt | Max Hiller |     |
-| Dokumentation | Pratyaksh Jain |     |
-| Entwickler | Tewes Eichwald |     |
+| Projektleiter | Michael Biser | inf23187@lehre.dhbw-stuttgart.de |
+| Produktmanager | Matthias Fauser | inf23038@lehre.dhbw-stuttgart.de |
+| Testmanager | Pratyaksh Jain | inf23108@lehre.dhbw-stuttgart.de |
+| Systemarchitekt | Dominic Maurach | inf23023@lehre.dhbw-stuttgart.de |
+| UI/UX-Architekt | Max Hiller | inf23178@lehre.dhbw-stuttgart.de |
+| Dokumentation | Tobias Katz |  |
+| Entwickler | Sayed Mohamed, Tewes Eichwald | inf23170@lehre.dhbw-stuttgart.de,  |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
