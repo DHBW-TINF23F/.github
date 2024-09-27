@@ -16,7 +16,7 @@ Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Jhilmar Pardo |     |
+| Projektleiter | ??? |     |
 | Produktmanager | ??? |     |
 | Testmanager | ??? |     |
 | Systemarchitekt | ??? |     |
@@ -64,7 +64,7 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 | Systemarchitekt | Tobias Wiedemann |     |
 | UI/UX-Architekt | Moritz Greiner |     |
 | Dokumentation | Robert Limberger |     |
-| Entwickler | Felix Uhlig |     |
+| Entwickler | Felix Uhlig, Jhilmar Pardo |     |
 
 GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
 
