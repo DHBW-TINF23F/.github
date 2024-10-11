@@ -40,7 +40,7 @@ GIT-Repository: <https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin>
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
-### **Team 3:  [BaSyx Editor Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
+### **Team 3:  [BaSyx Editor Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project3.md)**
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
