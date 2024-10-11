@@ -12,19 +12,19 @@ Es sollen die in den Vorlesungen besprochenen Techniken zur Anwendung kommen.
 
 Es werden Projektthemen mit ähnlichem Schwierigkeitsgrad für 4 Teams angeboten. Bei Unstimmigkeiten unter den Teams, wer welches Projekt machen möchte, treffen die Dozenten die finale Zuweisung. Folgende Themen werden bearbeitet:
 
-### **Team 1:  [Mnestix Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project1.md)**
+### **Team 1: [BaSyx Security Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project1.md)**
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | --- |     |
-| Produktmanager | --- |     |
-| Testmanager | --- |     |
-| Systemarchitekt | --- |     |
-| UI/UX-Architekt | --- |     |
-| Dokumentation | --- |     |
-| Entwickler | --- |     |
+| Projektleiter | Jannik Zobel | inf23118@lehre.dhbw-stuttgart.de |
+| Produktmanager | Lukas Gagstatter | inf23139@lehre.dhbw-stuttgart.de |
+| Testmanager | Francesco Intorre | inf23209@lehre.dhbw-stuttgart.de |
+| Systemarchitekt | Tobias Wiedemann | inf23183@lehre.dhbw-stuttgart.de |
+| UI/UX-Architekt | Moritz Greiner | inf23150@lehre.dhbw-stuttgart.de    |
+| Dokumentation | Robert Limberger | inf23089@lehre.dhbw-stuttgart.de |
+| Entwickler | Felix Uhlig, Jhilmar Pardo | inf23173@lehre.dhbw-stuttgart.de, inf23087@lehre.dhbw-stuttgart.de|
 
-GIT-Repository:  <https://github.com/DHBW-TINF23F/Team1-Mnestix-WebClient>
+GIT-Repository: <https://github.com/DHBW-TINF23F/Team1-BaSyx-Security-Plugin>
 
 ### **Team 2:  [BaSyx Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
 
@@ -54,19 +54,19 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
-### **Team 4: [BaSyx Security Plugin](https://github.com/DHBW-TINF23F/.github/blob/main/project2.md)**
+### **Team 4:  [Mnestix Webclient](https://github.com/DHBW-TINF23F/.github/blob/main/project4.md)**
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Jannik Zobel | inf23118@lehre.dhbw-stuttgart.de |
-| Produktmanager | Lukas Gagstatter | inf23139@lehre.dhbw-stuttgart.de |
-| Testmanager | Francesco Intorre | inf23209@lehre.dhbw-stuttgart.de |
-| Systemarchitekt | Tobias Wiedemann | inf23183@lehre.dhbw-stuttgart.de |
-| UI/UX-Architekt | Moritz Greiner | inf23150@lehre.dhbw-stuttgart.de    |
-| Dokumentation | Robert Limberger | inf23089@lehre.dhbw-stuttgart.de |
-| Entwickler | Felix Uhlig, Jhilmar Pardo | inf23173@lehre.dhbw-stuttgart.de, inf23087@lehre.dhbw-stuttgart.de|
+| Projektleiter | --- |     |
+| Produktmanager | --- |     |
+| Testmanager | --- |     |
+| Systemarchitekt | --- |     |
+| UI/UX-Architekt | --- |     |
+| Dokumentation | --- |     |
+| Entwickler | --- |     |
 
-GIT-Repository: <https://github.com/DHBW-TINF23F/Team4-BaSyx-Security-Plugin>
+GIT-Repository:  <https://github.com/DHBW-TINF23F/Team4-Mnestix-WebClient>
 
 ### **FAQ**
 
