@@ -1,4 +1,4 @@
-## Projekt 4: **BaSyx Security-Plugin**
+## Projekt 1: **BaSyx Security-Plugin**
 
 Folgende Dokumente definieren bislang das Thema „Security für Verwaltungsschalen“:
 
