@@ -44,13 +44,13 @@ GIT-Repository:  <https://github.com/DHBW-TINF23F/Team2-BaSyx-WebClient>
 
 | **Rolle** | **Name** | **eMail** |
 | --- | --- | --- |
-| Projektleiter | Darius Brak | inf23184@lehre.dhbw-stuttgart.de    |
-| Produktmanager | Noah Vesenjak | inf23197@lehre.dhbw-stuttgart.de    |
-| Testmanager | Celil Sahin | inf23194@lehre.dhbw-stuttgart.de    |
-| Systemarchitekt | Daniel Jatsenko | inf23009@lehre.dhbw-stuttgart.de    |
-| UI/UX-Architekt | Glenn Strommer | inf23004@lehre.dhbw-stuttgart.de    |
-| Dokumentation | Philipp Reich | inf23065@lehre.dhbw-stuttgart.de    |
-| Entwickler | Daniel Serban | inf23081@lehre.dhbw-stuttgart.de   |
+| ̵P̵r̵o̵j̵e̵c̵t̵ ̵m̵a̵n̵a̵g̵e̵r̵ ̵ ̵|̵ ̵D̵a̵r̵i̵u̵s̵ ̵B̵r̵a̵k̵ ̵ ̵ ̵ ̵ ̵|̵ ̵i̵n̵f̵2̵3̵1̵8̵4̵@̵l̵e̵h̵r̵e̵.̵d̵h̵b̵w̵-̵s̵t̵u̵t̵t̵g̵a̵r̵t̵.̵d̵e̵ ̵|
+| Product manager  | Noah Vesenjak   | inf23197@lehre.dhbw-stuttgart.de |
+| Project manager  (vorher: Test manager)| Celil Sahin     | inf23194@lehre.dhbw-stuttgart.de |
+| System Architect | Daniel Jatsenko | inf23009@lehre.dhbw-stuttgart.de |
+| UI/UX Architect  | Glenn Strommer  | inf23004@lehre.dhbw-stuttgart.de |
+| Documentation    | Philipp Reich   | inf23065@lehre.dhbw-stuttgart.de |
+| Developer        | Daniel Serban   | inf23081@lehre.dhbw-stuttgart.de |
 
 GIT-Repository:  <https://github.com/DHBW-TINF23F/Team3-BaSyx-Editor-Plugin>
 
