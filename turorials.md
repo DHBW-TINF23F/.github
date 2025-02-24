@@ -17,6 +17,7 @@
 ### [AAS-Demo R.Stahl](https://dt.r-stahl.com/de-DE)
 ### https://elmicron.de/P2P/?S=25PQCELMIAQ7B4%1DS400D02
 ### https://pk.harting.com/?.1P=09990000887
+### https://www.e-d-c.info/AUTOID/?.25P=QCELMIBATT01X&.S=123456XYZ
 
 ### https://v3.admin-shell-io.com/
 ### https://v3security.admin-shell-io.com/
