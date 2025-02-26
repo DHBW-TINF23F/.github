@@ -7,7 +7,7 @@
 ### [Eclipse Papyrus™ Modeling environment](https://eclipse.dev/papyrus/components/manufacturing/documentation.html)
 ![image](https://github.com/user-attachments/assets/1fe61e81-ae07-4423-9c52-48a288d9884c)
 
-### https://www.youtube.com/@aas-connect
+### https://www.youtube.com/@aas-connect/videos
 
 ## Online Demos
 ### https://v3.admin-shell-io.com/
